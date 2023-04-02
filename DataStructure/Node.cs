@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DataStructure
 {
-    // UC1- Using custom generic linked list.
+    // UC2- Using custom generic STACK.
     internal class Node<T>
     {
         public T data;
